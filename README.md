@@ -1,0 +1,1 @@
+This is an implementation of Genetic Algorithm designed to solve variant of school timetabling problem (matching groups and rooms with time slots).
